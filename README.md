@@ -30,5 +30,6 @@ mandelbrot/
 ├── utils.py          # Helper functions
 ├── hand_colormaps.py # Custom color maps
 ├── config.json       # Config parameters
-├── ...
+├── conf.py           # Initializer
+├── help.json         # Help file
 ```
