@@ -1,0 +1,21 @@
+{
+"a" : "Augmenter les oscillations des couleurs",
+"z" : "Réduire les oscillations des couleurs",
+"e" : "Augmenter le décalage du spectre des couleurs",
+"t" : "Diminuer le décalage du spectre des couleurs",
+"p" : "Décaler continûment le spectre des couleurs",
+"c" : "Couleur suivante",
+"v" : "Couleur précédente",
+"y" : "Afficher le zoom suivant",
+"x" : "Changer la transformation",
+"w" : "Changer la transformation (retour)",
+"del" : "Redémarrer",
+"espace" : "Augmenter le nombre d'itérations",
+"b" : "Réduire le nombre d'itérations",
+"gauche" : "Retour arrière",
+"droite" : "Avancer",
+"s" : "Sauvegarde rapide",
+"q" : "Sauvegarde haute qualité",
+"i" : "Afficher les informations",
+"clic" : "Zoomer"
+}

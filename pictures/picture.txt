@@ -1,0 +1,6 @@
+Fractale : Mandelbrot
+Position : [-0.7548027507108057, -0.7539117137482833, -0.055648136645871225, -0.05491472815008919]
+Coloris : bone_r
+Echelle : -3.09
+Transformation : square
+Elapsed_time : 35.78

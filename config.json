@@ -1,0 +1,31 @@
+{
+"positions_tr" : 
+[[-4, 4, -4, 4],[-2, 2, -3, 3],[-2, 0.5, -1.13, 1.13], [-1.5, 1.5, -1.5, 1.5], [-1.5, 1.2, -1.5, 1.5], [-10, 8, -4, 4], [-3.83965517, -2.36551724, -0.70679612, 0.75339806]],
+"colormaps" : 
+["twilight_shifted", "rainbow", "gist_ncar_r", "gist_stern_r", "bone_r", "PuOr_r", "PuRd", "viridis", "ocean_r"], 
+"n_iterations" : 100, 
+"n_iterations_auto" : 50, 
+"min_iterations" : 30,
+"n_pixels" : 600000,
+"threshold" : 10,
+"auto_scale" : 0,
+"oscillation_color" : 1,
+"display_progression" : 1,
+"alpha" : 0.01,
+"quality" : 4,
+"color_rectangle" : [0, 230, 184],
+"width_rectangle" : 5,
+"rounding_rectangle" : 20,
+"font_name" : "calibri",
+"font_size" : 24,
+"font_color" : [150, 150, 150],
+"space_lines" : 20,
+"font_size_help" : 18,
+"color_rectangle_help" : [150, 150, 150],
+"space_lines_help" : 14,
+"n_transformation" : 0,
+"path_save" : "./pictures/picture",
+"delta_c" : 1e-2,
+  "c_x" : 0.35540320398848696,
+"c_y" : 0.33790485452996416
+}
