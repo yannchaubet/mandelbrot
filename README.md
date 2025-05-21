@@ -4,8 +4,7 @@ This is a simple interactive Mandelbrot set explorer built with Python and PyGam
 It allows you to zoom and pan smoothly into the Mandelbrot set using your mouse.
 
 ## 🌀 Features
-- Scroll to zoom in and out
-- Click and drag to move around the set
+- Click and drag to zoom
 - Adjustable resolution and color schemes
 - Real-time rendering using PyGame
 
