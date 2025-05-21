@@ -8,6 +8,12 @@ It allows you to zoom and pan smoothly into the Mandelbrot set using your mouse.
 - Adjustable resolution and color schemes
 - Real-time rendering using PyGame
 
+## ⛰️ Images
+
+<img src="https://github.com/user-attachments/assets/661c1389-e265-4f59-a266-14deb5151e57" width="300" />
+<img src="https://github.com/user-attachments/assets/a07fdf10-1f53-4161-b78d-727ff35afd2a" width="300" />
+
+
 ## 📦 Requirements
 - Python 3.8+
 - PyGame
