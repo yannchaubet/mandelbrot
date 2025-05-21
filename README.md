@@ -29,6 +29,9 @@ Run the command:
 python run.py
 ```
 
+## 🖲️ Commands
+Press h to see all the commands
+
 ## 📂 Project structure
 ```
 mandelbrot/
