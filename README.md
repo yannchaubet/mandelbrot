@@ -24,8 +24,10 @@ pip install -r requirements.txt
 ```
 
 ## 🚀 Run the program
-Simply run the following command:
+Run the command:
+```bash
 python run.py
+```
 
 ## 📂 Project structure
 ```
